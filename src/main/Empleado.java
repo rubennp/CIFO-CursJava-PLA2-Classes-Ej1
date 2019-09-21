@@ -3,8 +3,9 @@ package main;
 /**
  * 
  * Una clase para guardar los empleados de la empresa.
+ * 
  * @author Rubèn Nieto
- *
+ * 
  */
 public class Empleado {
 	private String nombre, DNI;

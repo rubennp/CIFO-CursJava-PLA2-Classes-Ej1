@@ -3,7 +3,7 @@ package main;
 import java.util.ArrayList;
 
 /**
- * 
+ * Programa para probar la clase Empleado
  * @author Rubèn Nieto
  *
  */
